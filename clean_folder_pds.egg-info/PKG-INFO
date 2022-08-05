@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: clean-folder-pds
+Version: 1.0.0
+Summary: Package to clean folders
+Author: Petrik Dima
+Author-email: petrikdima16@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
